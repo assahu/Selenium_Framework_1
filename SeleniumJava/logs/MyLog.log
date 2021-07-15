@@ -1,0 +1,19 @@
+[INFO ] 2021-07-05 21:31:08.778 [main] Log4j_demo - This is an information message
+	[ERROR] 2021-07-05 21:31:08.783 [main] Log4j_demo - This is an error message
+	[WARN ] 2021-07-05 21:31:08.783 [main] Log4j_demo - This is a warning message
+	[FATAL] 2021-07-05 21:31:08.783 [main] Log4j_demo - This is a fatal message
+	[INFO ] 2021-07-05 21:31:53.185 [main] Log4j_demo - This is an information message
+	[ERROR] 2021-07-05 21:31:53.188 [main] Log4j_demo - This is an error message
+	[WARN ] 2021-07-05 21:31:53.189 [main] Log4j_demo - This is a warning message
+	[FATAL] 2021-07-05 21:31:53.189 [main] Log4j_demo - This is a fatal message
+	[TRACE] 2021-07-05 21:32:39.497 [main] Log4j_demo - This is a trace message
+	[INFO ] 2021-07-05 21:32:39.500 [main] Log4j_demo - This is an information message
+	[ERROR] 2021-07-05 21:32:39.502 [main] Log4j_demo - This is an error message
+	[WARN ] 2021-07-05 21:32:39.502 [main] Log4j_demo - This is a warning message
+	[FATAL] 2021-07-05 21:32:39.502 [main] Log4j_demo - This is a fatal message
+	[TRACE] 2021-07-05 21:42:45.424 [main] Log4j_demo - This is a trace message
+	[INFO ] 2021-07-05 21:42:45.427 [main] Log4j_demo - This is an information message
+	[ERROR] 2021-07-05 21:42:45.427 [main] Log4j_demo - This is an error message
+	[WARN ] 2021-07-05 21:42:45.427 [main] Log4j_demo - This is a warning message
+	[FATAL] 2021-07-05 21:42:45.427 [main] Log4j_demo - This is a fatal message
+	
