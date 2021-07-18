@@ -15,7 +15,7 @@ import pageObjects.GoogleSearchPage;
 public class TestNGGoogleSearchPage {
 
 	static WebDriver driver = null;
-	public static String browserName;
+	public static String browserName = "chrome";
 	static String project_path = System.getProperty("user.dir");
 	
 	@BeforeTest
