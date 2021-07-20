@@ -11,8 +11,8 @@ public class browserTest {
 		
 		String project_path = System.getProperty("user.dir");
 //		System.setProperty("webdriver.gecko.driver", project_path+"\\drivers\\geckoDriver\\geckodriver.exe");
-//		System.setProperty("webdriver.chrome.driver", project_path+"\\drivers\\chromeDriver\\chromedriver.exe");
-		System.setProperty("webdriver.ie.driver", project_path+"\\drivers\\ieDriver\\IEDriverServer.exe");
+		System.setProperty("webdriver.chrome.driver", project_path+"\\drivers\\chromeDriver\\chromedriver.exe");
+//		System.setProperty("webdriver.ie.driver", project_path+"\\drivers\\ieDriver\\IEDriverServer.exe");
 //		WebDriver driver = new FirefoxDriver();
 		WebDriver driver = new ChromeDriver();
 //		WebDriver driver = new InternetExplorerDriver();
