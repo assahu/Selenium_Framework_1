@@ -30,7 +30,7 @@ public class TestNGlistenersDemo {
 		driver.findElement(By.name("q")).sendKeys("Automation Step by Step");
 		
 //		click on search button
-		driver.findElement(By.name("btnK")).click();
+		driver.findElement(By.name("btnK")).sendKeys(Keys.RETURN);
 //		driver.findElement(By.name("saa")).sendKeys(Keys.RETURN);
 		
 		//wait for 3 seconds
